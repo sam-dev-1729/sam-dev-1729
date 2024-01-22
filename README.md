@@ -7,8 +7,8 @@ Software Engineer
 I'm a Software Engineer experienced with Python and JavaScript programming languages and also familiar with some basics of game development using Unreal Engine 5 and C++.
 
 * 🌍  I'm based in Iran
-* 🖥️  See my portfolio at [shywn-mrk](http://shywn-mrk.github.io/)
-* ✉️  You can contact me at [shayankarimi0078@gmail.com](mailto:shayankarimi0078@gmail.com)
+* 🖥️  See my portfolio at [sam.dev.1729](http://shywn-mrk.github.io/)
+* ✉️  You can contact me at [sam.dev.1729@gmail.com](mailto:sam.dev.1729@gmail.com)
 * 🚀  I'm currently working on [Remino](https://remino.io/)
 * 🧠  I'm learning Unreal Engine 5 and trying to be a better Software Engineer
 * 🤝  I'm open to collaborating on Open Source Projects
