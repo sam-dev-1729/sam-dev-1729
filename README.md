@@ -20,8 +20,8 @@ I'm a Software Engineer experienced with Python and JavaScript programming langu
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://dart.dev/" title="Dart" target="_blank" rel="noreferrer"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart"></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/1870bdaf4a9523a10d5b.svg" alt="Flutter" x-show="darkMode" style="display: none;"></a>
+<a href="https://dart.dev/" title="Dart" target="_blank" rel="noreferrer"><img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="36" height="36" alt="Dart"></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/1870bdaf4a9523a10d5b.svg" width="36" height="36" alt="Flutter" x-show="darkMode" style="display: none;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -32,13 +32,13 @@ I'm a Software Engineer experienced with Python and JavaScript programming langu
 </p>
 
 
-### Socials
+<!-- ### Socials
 
 <p align="left"> <a href="https://www.github.com/shywn-mrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shayan-karimi-nafchi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@shayankarimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12284866/shayan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shwyn_mrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<--! <b>My GitHub Stats</b>
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shywn-mrk"><img src="https://github-readme-stats.vercel.app/api?username=shywn-mrk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shywn-mrk's GitHub stats" /></a>
 
